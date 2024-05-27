@@ -1,0 +1,34 @@
+1,5km
+Accuracy: 0.9875
+F1 Score (Weighted): 0.987546369899311
+Recall (Weighted): 0.9875
+Precision (Weighted): 0.9881578947368421
+Test Time: 0.0010099411010742188
+
+2,5km
+Accuracy: 0.8
+F1 Score (Weighted): 0.7832980038862392
+Recall (Weighted): 0.8
+Precision (Weighted): 0.8858851674641148
+Test Time: 0.0010001659393310547
+
+2km
+Accuracy: 0.9875
+F1 Score (Weighted): 0.987546369899311
+Recall (Weighted): 0.9875
+Precision (Weighted): 0.9881578947368421
+Test Time: 0.00099945068359375
+
+1km
+Accuracy: 0.9875
+F1 Score (Weighted): 0.987546369899311
+Recall (Weighted): 0.9875
+Precision (Weighted): 0.9881578947368421
+Test Time: 0.0010678768157958984
+
+500m
+Accuracy: 0.9875
+F1 Score (Weighted): 0.987546369899311
+Recall (Weighted): 0.9875
+Precision (Weighted): 0.9881578947368421
+Test Time: 0.000993967056274414
